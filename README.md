@@ -2,4 +2,5 @@
 
 This repo is the content of site http://hereshem.github.io
 
-You can create your own.
+Also check http://www.hemshrestha.com.np
+and http://pi.hemshrestha.com.np
